@@ -5,10 +5,10 @@ public class Test2 extends Main {
     //Test1 test = new Test1();
     @Test
     public void sub(){
-        Main main = new Test1();
+        Main main = new LogicalProgram();
         main.logic();
         System.out.println("---------------------------");
-        Test1 test = new Test1();
+        LogicalProgram test = new LogicalProgram();
         test.logic();
 
     }
