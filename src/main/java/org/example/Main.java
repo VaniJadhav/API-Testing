@@ -7,6 +7,6 @@ public class Main {
     int b;
     public void logic(){
         System.out.println("Logic parent");
-
     }
+
 }
